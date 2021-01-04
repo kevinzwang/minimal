@@ -250,8 +250,8 @@ function _mnml_zle-keymap-select {
 # draw infoline if no command is given
 function _mnml_buffer-empty {
     if [ -z "$BUFFER" ]; then
-        _mnml_iline "$(_mnml_wrap MNML_INFOLN)"
-        _mnml_me
+        _mnml_iline # "$(_mnml_wrap MNML_INFOLN)"
+        # _mnml_me
         zle redisplay
     else
         zle accept-line
