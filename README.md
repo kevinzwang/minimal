@@ -1,5 +1,5 @@
 # MINIMAL
-A minimal and extensible zsh theme.
+A minimal and extensible zsh theme. Made even more minimal by yours truly.
 
 # Screencast
 [![asciicast](https://asciinema.org/a/RZthpXkg9b7KdKRGjySsC83wx.png)](https://asciinema.org/a/RZthpXkg9b7KdKRGjySsC83wx)
